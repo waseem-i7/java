@@ -1,3 +1,4 @@
+package FirstProgram;
 import java.util.Scanner;
 
 public class FirstProgram {
@@ -8,6 +9,8 @@ public class FirstProgram {
         int num2 = sc.nextInt();
         int sum = num1 + num2;
         System.out.println(sum);
+
+   
     }
 
 }
